@@ -7,9 +7,9 @@ from urllib.parse import quote
 from typing import List, Tuple, Dict
 
 # ------------------ Config ------------------
-GNEWS_API_KEY = os.getenv("GNEWS_API_KEY", "7c5375c69233f6a731714ab09584a219")
-GOOGLE_CSE_API_KEY = os.getenv("GOOGLE_CSE_API_KEY", "AIzaSyBypIQi0kJ4JsVwAdM15-ELWr7kmNVPyMA")
-GOOGLE_CSE_ENGINE_ID = os.getenv("GOOGLE_CSE_ENGINE_ID", "04ac3616a037847f6")
+GNEWS_API_KEY = os.getenv("GNEWS_API_KEY", "a")
+GOOGLE_CSE_API_KEY = os.getenv("GOOGLE_CSE_API_KEY", "z")
+GOOGLE_CSE_ENGINE_ID = os.getenv("GOOGLE_CSE_ENGINE_ID", "y")
 
 DEBUG = False
 

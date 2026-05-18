@@ -21,7 +21,7 @@ except ImportError:
 app = Flask(__name__)
 
 # ---------------- Configuration ----------------
-NEWSAPI_KEY = os.getenv("NEWSAPI_KEY", "2a545d0a809240aca808f97e53cd68fd")
+NEWSAPI_KEY = os.getenv("NEWSAPI_KEY", "x")
 
 # ---------------- Load ML Model ----------------
 try:
